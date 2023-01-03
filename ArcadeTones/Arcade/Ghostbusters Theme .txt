@@ -1,1 +1,49 @@
-Ghostbusters Theme : d=4,o=5,b=125:16c#,16p,8c#,16e,16f,16g#,16p,8b,8p,8a#.,16p,16c#,16p,8c#,16e,16f,16g#,16p,16b,16p,16b,16p,a#,8p,16c#6,16c#6,8f6,16c#6,16p,8d#6,16b,
+# Snowman by Sia
+
+# Tempo: 120 BPM
+
+# Time Signature: 4/4
+
+# Key: G Major
+
+# Instrument: Piano
+
+Verse 1:
+G3  G3  G3  G3
+G3  G3  G3  G3
+A3  A3  A3  A3
+A3  A3  A3  A3
+B3  B3  B3  B3
+B3  B3  B3  B3
+
+Chorus:
+C4  C4  D4  D4
+E4  E4  F4  F4
+G4  G4  G4  G4
+A4  A4  A4  A4
+
+Verse 2:
+G3  G3  G3  G3
+G3  G3  G3  G3
+A3  A3  A3  A3
+A3  A3  A3  A3
+B3  B3  B3  B3
+B3  B3  B3  B3
+
+Chorus:
+C4  C4  D4  D4
+E4  E4  F4  F4
+G4  G4  G4  G4
+A4  A4  A4  A4
+
+Bridge:
+D4  D4  E4  E4
+F4  F4  G4  G4
+A4  A4  A4  A4
+B4  B4  B4  B4
+
+Outro:
+C5  C5  D5  D5
+E5  E5  F5  F5
+G5  G5  G5  G5
+A5  A5  A5  A5
